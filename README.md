@@ -1,4 +1,4 @@
-## Hello ✨
+## Hello I'm Divya ✨
 
 <!--
 **divya-3005/divya-3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -12,15 +12,21 @@
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=divya-3005&show_icons=true&theme=radical">
 </p>
+
 <div align="center">
 <h3>Most Used Language</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+<br><br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya-3005&theme=dark" width="90%">
 </p>
+<br>
 
-<h3>I'm a beginner full of aspirations</h3>
+<h3 align="center">I'm a beginner full of aspirations</h3>
+<p align="center">
+  <img src="https://www.shutterstock.com/image-vector/vector-illustration-super-professional-programmer-600nw-682987117.jpg" height="100" width="100">
+</p>
 
 
 
