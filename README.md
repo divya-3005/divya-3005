@@ -9,9 +9,6 @@
 - 💬 Ask me about DSA and basics of some languages
 - 📫 How to reach me: divyasorrot3005@gmail.com
 - 😄 Pronouns: She/Her
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=divya-3005&show_icons=true&theme=radical">
-</p>
 
 <div align="center">
 <h3>Most Used Language</h3>
