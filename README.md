@@ -1,29 +1,49 @@
-## Hello I'm Divya ✨
+## Hi, I'm Divya 👋✨  
+### Full Stack Developer | Tech Enthusiast | Problem Solver  
 
-<!--
-**divya-3005/divya-3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+---
 
-- 🔭 I’m currently working on frontend projects
-- 🌱 I’m currently diving deeper in backend development
-- 🤔 I’m looking for help with AI/ML
-- 💬 Ask me about DSA and basics of some languages
-- 📫 How to reach me: divyasorrot3005@gmail.com
-- 😄 Pronouns: She/Her
+🚀 Passionate Full Stack Developer building modern, scalable web applications  
+💻 Love working with frontend & backend technologies  
+📚 Constantly learning and growing in the tech world  
+🤖 Exploring AI/ML and its real-world applications  
 
-<div align="center">
-<h3>Most Used Language</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-<br><br>
+---
+
+### 👩‍💻 About Me
+
+- 🔭 Currently working on full stack projects  
+- 🌱 Improving my backend & system design skills  
+- 🤔 Exploring AI/ML and automation  
+- 💬 Ask me about DSA, Web Development & Programming Basics  
+- 📫 Reach me at: **divyasorrot3005@gmail.com**  
+- 😄 Pronouns: She/Her  
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend:**  
+HTML • CSS • JavaScript • React • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express • MongoDB  
+
+**Programming:**  
+Python • JavaScript  
+
+---
+
+### 🌟 Motto
+
+> *"I'm a full stack developer with big dreams and unstoppable ambition."*  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya-3005&theme=dark" width="90%">
-</p>
-<br>
-
-<h3 align="center">I'm a beginner full of aspirations</h3>
-<p align="center">
-  <img src="https://www.shutterstock.com/image-vector/vector-illustration-super-professional-programmer-600nw-682987117.jpg" height="100" width="100">
+  <img src="https://www.shutterstock.com/image-vector/vector-illustration-super-professional-programmer-600nw-682987117.jpg" height="120" width="120">
 </p>
 
+---
 
-
+⭐ *Always open to collaborations, learning, and building amazing things!*
