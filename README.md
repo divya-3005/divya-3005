@@ -1,116 +1,75 @@
-# Hi, I'm Divya Singh 👋
+<h1 align="center">Hey, I'm Divya Singh 👋✨</h1>
 
-### Software Engineer | Full Stack Developer | AI & Distributed Systems Enthusiast
+<p align="center">
+  <strong>Full Stack Developer · Tech Enthusiast · Problem Solver</strong><br/>
+  Building modern, scalable web applications with big dreams and unstoppable ambition.
+</p>
 
-I'm a Computer Science student passionate about building scalable software, intelligent systems, and developer tools.
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-97C459?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collabs-1D9E75?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Explorer-7F77DD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/She%2FHer-BA7517?style=flat-square&logoColor=white" />
+</p>
 
-Currently focused on:
+<br/>
 
-* Data Structures & Algorithms
-* Full Stack Development
-* System Design & Distributed Systems
-* AI Agents & LLM Applications
-* Open Source Development
+### 👩‍💻 About Me
 
-My goal is to build products that operate at scale while continuously improving my engineering fundamentals.
+- 🔭 Currently working on full stack projects
+- 🌱 Sharpening my backend & system design skills
+- 🤖 Exploring AI/ML and automation
+- 💬 Ask me about **DSA, Web Development & Programming Basics**
+- 📫 Reach me at: **divyasorrot3005@gmail.com**
+- 😄 Pronouns: She/Her
 
----
+<br/>
 
-## 🚀 Current Focus
+### 🛠 Tech Stack
 
-* Building full-stack applications with modern web technologies
-* Solving Data Structures & Algorithms problems regularly
-* Exploring distributed systems concepts through projects
-* Developing AI-powered applications and agentic workflows
-* Preparing for Software Engineering internships
+**Frontend**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🛠 Tech Stack
+**Backend**
 
-### Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-* JavaScript
-* Python
-* SQL
+**Languages**
 
-### Frontend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-* React
-* Tailwind CSS
-* HTML5
-* CSS3
+<br/>
 
-### Backend
+### 🚀 Projects
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
+| Project | Tech | Description |
+|---|---|---|
+| [Capstone Project](https://github.com/divya-3005/Capstone-Project) | HTML | Full stack capstone project |
+| [Mental Health Tracker](https://github.com/divya-3005/mental-health-tracker-capstone-project) | JavaScript | Capstone project for mental health tracking |
+| [Movie Recommendation System](https://github.com/divya-3005/Movie-Recommendation-System) | HTML | Movie recommendation web app |
+| [AI Agents](https://github.com/divya-3005/ai-agents) | Python | Exploring AI agents & automation |
 
-### Databases
+<br/>
 
-* MongoDB
-* PostgreSQL
+### 📊 GitHub Stats
 
-### Tools & Platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divya-3005&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-3005&layout=compact&hide_border=true&theme=default" height="160" />
+</p>
 
-* Git
-* GitHub
-* Postman
-* Vercel
-* Render
-* Linux
+<br/>
 
----
+### 🌟 Motto
 
-## 📌 Featured Projects
+> *"I'm a full stack developer with big dreams and unstoppable ambition."*
 
-### Collaborative Document Editor
+<br/>
 
-Real-time collaborative editing platform with authentication, document sharing, and synchronization features.
-
-### AI Agents
-
-Experiments with autonomous AI workflows, tool calling, automation, and LLM-powered applications.
-
-### Mental Health Tracker
-
-A full-stack application focused on habit tracking, mood analysis, and user-centric design.
-
-### Movie Recommendation System
-
-Recommendation engine built using content-based filtering techniques.
-
----
-
-## 📈 What I'm Learning
-
-* Advanced React Patterns
-* Backend Architecture
-* System Design
-* Distributed Systems
-* AI Engineering
-* Cloud Fundamentals
-
----
-
-## 🎯 2026 Goals
-
-* Secure a top Software Engineering internship
-* Reach advanced problem-solving proficiency in DSA
-* Build production-grade distributed systems projects
-* Contribute consistently to open source
-* Ship impactful AI-powered products
-
----
-
-## 📫 Connect
-
-* Email: [divyasorrot3005@gmail.com](mailto:divyasorrot3005@gmail.com)
-* LinkedIn: [Add LinkedIn]
-* Portfolio: [Add Portfolio]
-
----
-
-> "Build. Learn. Iterate. Repeat."
+<p align="center">⭐ Always open to collaborations, learning, and building amazing things!</p>
