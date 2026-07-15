@@ -57,12 +57,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya-3005&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777&icon_color=2F80ED&text_bold=false" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya-3005&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777&icon_color=2F80ED&text_bold=false" width="48%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-3005&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777" width="60%" />
-</div>
